@@ -1,1 +1,2 @@
 # learngit
+install npm i;
